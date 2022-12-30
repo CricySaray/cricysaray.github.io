@@ -1,2 +1,2 @@
 # cricysaray.github.io
-Cricy Blog
+Cricy's Blog
